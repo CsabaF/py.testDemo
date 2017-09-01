@@ -1,0 +1,17 @@
+#OS Junk File
+*.DS_Store
+
+#IntelliJ
+.idea/*
+
+#Python
+*.pyc
+
+#Videos files
+*.mp4
+
+#Audio files
+*.mp3
+
+#bash files
+*.sh-e
